@@ -43,7 +43,7 @@
 # How to
 
 Flash [firmware](https://github.com/SequoiaSan/FlipperZero-WiFi-Scanner_Module-ESP8266/tree/main/FlipperZero-WiFi-Scanner_Module) on Wemos D1 Mini
-Install EPS8266 board version 2.7.4 for Arduino IDE. I had issues with higher versions.
+Install ESP8266 board version 2.7.4 for Arduino IDE. I had issues with higher versions.
 
 Compile firmware for FlipperZero with new [application](https://github.com/SequoiaSan/FlipperZero-WiFi-Scanner_Module-ESP8266/tree/main/applications/wifi_scanner)
 
