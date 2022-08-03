@@ -1,0 +1,11 @@
+{
+  "name": "WiFi Scanner Module ESP8266",
+  "version": "v.0.4",
+  "home_assistant_domain": "slim_player",
+  "builds": [
+    {
+      "chipFamily": "ESP8266",
+      "parts": [{ "path": "firmware/FlipperZero-WiFi-Scanner_Module.ino.d1_mini.bin", "offset": 0 }]
+    }
+  ]
+}
